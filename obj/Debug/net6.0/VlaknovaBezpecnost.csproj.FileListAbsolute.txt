@@ -1,0 +1,15 @@
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\bin\Debug\net6.0\VlaknovaBezpecnost.exe
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\bin\Debug\net6.0\VlaknovaBezpecnost.deps.json
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\bin\Debug\net6.0\VlaknovaBezpecnost.runtimeconfig.json
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\bin\Debug\net6.0\VlaknovaBezpecnost.dll
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\bin\Debug\net6.0\VlaknovaBezpecnost.pdb
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\VlaknovaBezpecnost.csproj.AssemblyReference.cache
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\VlaknovaBezpecnost.GeneratedMSBuildEditorConfig.editorconfig
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\VlaknovaBezpecnost.AssemblyInfoInputs.cache
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\VlaknovaBezpecnost.AssemblyInfo.cs
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\VlaknovaBezpecnost.csproj.CoreCompileInputs.cache
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\VlaknovaBezpecnost.dll
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\refint\VlaknovaBezpecnost.dll
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\VlaknovaBezpecnost.pdb
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\VlaknovaBezpecnost.genruntimeconfig.cache
+D:\C3b_Kuna\VlaknaCitac\VlaknovaBezpecnost\obj\Debug\net6.0\ref\VlaknovaBezpecnost.dll
